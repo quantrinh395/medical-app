@@ -1,0 +1,29 @@
+.Input-Center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 150px;
+}
+
+.Button-Group {
+    display: flex;
+    flex-direction: column;
+}
+
+.Button-Group Button {
+    margin-top: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+.Input-Form {
+    width: 300px;
+}
+
+.p-invalid {
+    height: 3px;
+    color: red;
+}
+

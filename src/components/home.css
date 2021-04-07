@@ -1,0 +1,8 @@
+.BlockCenter {
+    display: flex;
+    align-items: center;
+}
+
+.BlockCenter h1 {
+    margin: auto;
+}

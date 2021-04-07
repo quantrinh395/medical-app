@@ -1,0 +1,14 @@
+.right-area {
+    margin-right: 5px;
+}
+
+.messages {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    text-align: start;
+}
+
+.CardText, p{
+    text-align: start;
+}
